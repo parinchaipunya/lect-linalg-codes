@@ -4,6 +4,8 @@
 !*.ipynb
 !*.py
 !*.png
+!*.jpg
+!*.tiff
 !*.xls
 !*.xlsx
 !/data/
